@@ -1,0 +1,38 @@
+.container {
+    margin-left: 180px;
+    display:flex;
+    background-color: rgb(228, 228, 228);
+    height: 100px;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+}
+
+.butstyle {
+    color: #3E4550;
+}
+
+button {
+    background-color: #3E4550;
+    color: white;
+    height: 40px;
+    width: 90px;
+    margin: 2px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#eerste {
+    background-color: transparent;
+    color:#3E4550;
+}
+
+#vijfde {
+    background-color: transparent;
+    color:#3E4550;
+}
+
+#licht {
+    background-color: #2E95E9;
+}
+
